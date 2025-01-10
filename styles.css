@@ -1,0 +1,41 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.home {
+    text-align: center;
+    color: purple;
+}
+
+li {
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    color: purple;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.img {
+    height: auto;
+    width: 600px;
+}
+.title.burrito {
+    color: darkorange;
+}
+
+.ingreadents {
+    font-weight: 200;
+    font-size: 32px;
+    background-color: antiquewhite;
+}
+
+.box {
+    background-color: pink;
+    border-radius: 20px;
+}
+
+.box li {
+    font-size: 22px;
+}
